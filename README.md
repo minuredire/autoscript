@@ -6,7 +6,7 @@
 </p>
 
 
-                                          WEBSOCKET / SSH / SSL / XRAY
+                                       WEBSOCKET / SSH / SSL / XRAY
 
 <pre><code>apt --fix-missing update && apt update && apt upgrade -y</code></pre>
 
